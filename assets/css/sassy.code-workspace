@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\It  joy bd project\\project three"
+		},
+		{
+			"path": "..\\..\\..\\It  joy bd project\\project one"
+		},
+		{
+			"path": "..\\..\\..\\It  joy bd project\\project two"
+		},
+		{
+			"path": "..\\..\\..\\It  joy bd project\\sl bonus project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "sl bonus project"
+	}
+}
